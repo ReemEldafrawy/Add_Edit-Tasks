@@ -1,16 +1,19 @@
-# Add_Edit Tasks (mobile application App)
+# Smart Task Manager Mobile App
 
-A new Flutter project.
+# 📌 Project Description
 
-## Getting Started
+Task Manager Mobile App is a simple and intuitive application that helps users organize their daily tasks efficiently. The app provides all the essential functionalities needed for managing personal or work-related tasks in one place.
 
-This project is a starting point for a Flutter application.
+# ✨ Key Features
 
-A few resources to get you started if this is your first Flutter project:
+Add Tasks: Create new tasks with details like title, description, and due date.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Edit Tasks: Update or modify existing tasks whenever needed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Delete Tasks: Remove unnecessary or completed tasks from the list.
+
+Mark as Completed: Easily mark tasks as "done" when finished.
+
+Favorites: Mark important tasks as favorites to access them quickly.
+
+This mobile application is designed to improve productivity and help users keep track of their goals with a clean and user-friendly interface.
